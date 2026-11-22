@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Biblioteca Targets
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5684838680108568678
+  m_GuidHigh: 3533432538240616381
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4896905453128980597
+      m_GuidHigh: 15164097147364352921
+    m_SerializedTextureGuid:
+      m_GuidLow: 4779481374210427045
+      m_GuidHigh: 2229289088805328824
+    m_Size: {x: 0.06345916, y: 0.088}
+    m_SpecifySize: 1
+    m_Name: Reverso
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5691457284113163582
+      m_GuidHigh: 15137002347253060242
+    m_SerializedTextureGuid:
+      m_GuidLow: 18038109866334553839
+      m_GuidHigh: 16619947286807527178
+    m_Size: {x: 0.06262167, y: 0.0873632}
+    m_SpecifySize: 1
+    m_Name: Lucario
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5644115065993018584
+      m_GuidHigh: 6856459727188575371
+    m_SerializedTextureGuid:
+      m_GuidLow: 10183834464538083163
+      m_GuidHigh: 12947686098449424072
+    m_Size: {x: 0.06262167, y: 0.087482385}
+    m_SpecifySize: 1
+    m_Name: Mew
+    m_Texture: {fileID: 0}
